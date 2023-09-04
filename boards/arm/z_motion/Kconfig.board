@@ -1,0 +1,8 @@
+# Z Motion board configuration
+
+# Copyright (c) 2023 CATIE
+# SPDX-License-Identifier: Apache-2.0
+
+config BOARD_Z_MOTION
+	bool "Z Motion Board"
+	depends on SOC_NRF52833_QIAA

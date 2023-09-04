@@ -1,0 +1,14 @@
+# Z Motion board configuration
+
+# Copyright (c) 2023 CATIE
+# SPDX-License-Identifier: Apache-2.0
+
+if BOARD_Z_MOTION
+
+config BOARD
+	default "z_motion"
+
+config BT_CTLR
+	default BT
+
+endif # BOARD_Z_MOTION
