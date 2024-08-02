@@ -9,7 +9,7 @@
 #include "z_motion-pinctrl.dtsi"
 
 / {
-	model = "CATIE Z Motion board";
+	model = "CATIE Z_Motion board";
 	compatible = "catie,z-motion";
 
 	chosen {

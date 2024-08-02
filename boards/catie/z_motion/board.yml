@@ -1,0 +1,5 @@
+board:
+  name: z_motion
+  vendor: catie
+  socs:
+    - name: nrf52833
