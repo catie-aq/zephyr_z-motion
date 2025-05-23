@@ -5,7 +5,4 @@
 
 if BOARD_Z_MOTION
 
-config BT_CTLR
-	default BT
-
 endif # BOARD_Z_MOTION
